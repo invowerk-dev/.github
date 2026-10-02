@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Support
+    url: https://invowerk.dev/support
+    about: Questions about your account, billing or the API.
+  - name: API docs
+    url: https://api.invowerk.dev/docs
+    about: The reference for every endpoint.
