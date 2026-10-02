@@ -5,7 +5,7 @@ invowerk checks e-invoices: ZUGFeRD 2.5.2 and Factur-X 1.09.2 PDFs, XRechnung 3.
 ## Repositories
 
 - [invowerk](https://github.com/invowerk-dev/invowerk): start here, for the MCP server, the Claude Code plugin and the API.
-- [invowerk-integrations](https://github.com/invowerk-dev/invowerk-integrations): n8n, Zapier, Make, Workato, Dify, SDKs and templates.
+- [invowerk-integrations](https://github.com/invowerk-dev/invowerk-integrations): n8n, Zapier, Make, Dify, SDKs and templates.
 - [invowerk-action](https://github.com/invowerk-dev/invowerk-action): use invowerk in GitHub Actions.
 
 ## Links
